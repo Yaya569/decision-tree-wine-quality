@@ -73,3 +73,14 @@ However, test accuracy alone is not sufficient to determine whether a model is o
 - Compared decision tree depths of 2, 3 and 4.
 - Achieved a test accuracy of **76.875%** at depth 4.
 - Explored the relationship between model complexity and generalisation performance.
+
+## Tools & Technologies
+
+- Python
+- pandas
+- NumPy
+- Machine Learning
+- Decision Trees
+- Entropy
+- Information Gain
+- Classification
